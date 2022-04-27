@@ -1,3 +1,6 @@
+A balkezesek.csv UTF-8 kódolású forrásállomány soraiban a következő sorrendben
+találja meg az adatokat:
+
 1. Készítsen konzolalkalmazást (projektet) a következő feladatok megoldásához,
     amelynek forráskódját balkezesek néven mentse el!
 2. Olvassa be a balkezesek.csv állomány sorait és tárolja az adatokat egy olyan
