@@ -5,7 +5,7 @@ Kyle Abbott;1991-09-10;1996-08-24;200;76
 Joel Adamson;1996-04-10;1998-04-26;185;76
 """
 #1-2 Feladat
-class balkez:
+class Balkez:
     def __init__(self,sor):
         nev,elso,utolso,suly,magassag = sor.strip().split(";")
         self.nev        = nev
